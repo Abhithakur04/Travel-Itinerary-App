@@ -1,4 +1,4 @@
-# Travel Planning App
+# Travel Itinerary App
 
 A simple React app for planning personalized trips. Users can input trip details like destination, duration, and group type, and view trip information on a dashboard. The app includes mock API integrations for flight and accommodation details.
 
