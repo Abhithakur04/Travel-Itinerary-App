@@ -22,7 +22,7 @@ const Home = ({ onContinue }) => {
         <div className="flex justify-center items-center mt-2 space-x-2">
           <FaLinkedin className="text-blue-400" />
           <a
-            href="https://www.linkedin.com/in/your-username/"
+            href="https://www.linkedin.com/in/abhinash-singh-contact/"
             target="_blank"
             rel="noopener noreferrer"
             className="underline text-sm hover:text-blue-300"
